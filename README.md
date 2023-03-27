@@ -22,8 +22,3 @@ We’re going to build a modern messaging app where users can sign up and log in
 - Learn to use ListViews to build scrolling views.
 - How to use Firebase Cloud Firestore to store and retrieve data on the fly.
 
-
-
->--
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
